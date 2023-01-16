@@ -1,0 +1,19 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 52px;
+    color: rgb(48, 114, 238);
+
+}
+
+.header {
+    background-color:beige;
+}
+
+li {
+    padding: 1mm;
+}
