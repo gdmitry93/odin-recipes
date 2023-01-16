@@ -12,8 +12,15 @@ h1 {
 
 body {
     background-color:beige;
+    padding: 4mm;
 }
 
 li {
     padding: 1mm;
+}
+
+img {
+    width:100%;
+    height: auto;
+    object-fit: fill;
 }
